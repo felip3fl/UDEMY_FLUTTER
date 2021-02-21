@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
   Future<Map> _getGifs() async {
     http.Response response;
 
-    if (_search == null)
+    if(_search == null || _search.isEmpty)
       response = await http.get(
           'https://api.giphy.com/v1/gifs/trending?api_key=z5IoGted3z1ylvM38unbMmerWVGQGs7R&limit=19&rating=g');
     else
@@ -97,7 +97,8 @@ class _HomePageState extends State<HomePage> {
   }
 
   int _getCount(List data) {
-    if (_search == null) {
+    if(_search == null || _search.isEmpty)
+    {
       return data.length;
     } else {
       return data.length + 1;
