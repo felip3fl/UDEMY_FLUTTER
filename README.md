@@ -1,5 +1,5 @@
 <h3 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="200px" align="center" >
-<BR><BR>PUAN MOBILE</h3>
+<BR><BR>FLUTTER</h3>
 <h4 align="center">
 :construction:  Projeto usado para estudo, forever em construção  :construction:
 </h4>
@@ -12,7 +12,7 @@
 ## 📃 Descrição do projeto
 
 <p align="justify">
- Projeto desenvolvido usando C# com o proposito de estudo
+ Projeto desenvolvido usando Dart com o proposito de estudo
 </p>
 
 <BR>
@@ -33,7 +33,7 @@ Todo código fonte se encontra na pasta **source**
   
 ## 🛠️ Abrir e rodar o projeto
 
-Use o ``Visual Studio 2022`` para usar este projeto
+Use o ``Visual Studio code`` para usar este projeto
 
 
 <BR>  
