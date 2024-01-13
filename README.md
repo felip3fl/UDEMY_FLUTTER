@@ -1,13 +1,13 @@
 <h3 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="200px" align="center" >
 <BR><BR>FLUTTER</h3>
-<h4 align="center">
-:construction:  Projeto usado para estudo, forever em construção  :construction:
-</h4>
   
 <h3 align="center">
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-blue">
 <img src="https://img.shields.io/badge/PROJECT%20VERSION-0.0.0-blue">
 </h3>
+<h4 align="center">
+:construction:  Projeto usado para estudo, forever em construção  :construction:
+</h4>
 
 <BR>
   
